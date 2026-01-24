@@ -13,6 +13,19 @@ const projects = [
       "Health Checkup Packages",
       "Insurance Integration"
     ]
+  },
+  {
+    title: "AI Library Bot - AIADopTs by CoachBoTs",
+    description: "An intelligent AI-powered library management platform developed at CoachBoTs. Features adoption intelligence, user authentication, and AI-driven book recommendations and management system.",
+    technologies: ["React", "AI/ML", "Node.js", "Authentication", "REST API"],
+    liveUrl: "https://playground.coachbots.com/library-bot/c48fe4c1-97d6-4535-8de5-08ab0ea04adb",
+    features: [
+      "AI Adoption Intelligence",
+      "User Authentication",
+      "Library Management",
+      "AI Recommendations",
+      "Feedback System"
+    ]
   }
 ];
 
